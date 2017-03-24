@@ -1,0 +1,3 @@
+# StickHeadList
+一个类似微信的顶部stick的list(RecycerView版）
+基于RecyclerView分割线的list
